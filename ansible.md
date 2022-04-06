@@ -1,3 +1,5 @@
+ANSIBLE
+--------
 1. Why we need ad-hoc ansible commands, scenario where you have used ansible ad-hoc command?
 2. When i need detailed logs on executing ansible playbook what option i need to use?
 3. what is ansible.cfg file?

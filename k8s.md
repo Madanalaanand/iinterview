@@ -1,3 +1,5 @@
+KUBERNETS
+---------
 1. Can we have multiple conatiners in a pod? Can we have similar conatiners in a pod? Lets say i have 4 conatiners, one of them has failed how would you check which container has failed?
 2. What is liveness and readiness probe? Why we need them?
 3. Have you worked on kubernetes monitoring? Which tools you have used?
